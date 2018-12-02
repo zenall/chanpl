@@ -30,7 +30,7 @@ var jwDefaults = {
     "background": "#141414",
     "inactive": "#b8b8b8",
     "url":"https://cdn.staticaly.com/gh/zenall/chanpl/85001cb5/chan.css",
-    "name": "stormtrooper"
+    "name": "chans"
   },
   "stagevideo": false,
   "stretching": "uniform",
