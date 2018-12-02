@@ -29,7 +29,7 @@ var jwDefaults = {
     "active": "#0099ff",
     "background": "#141414",
     "inactive": "#b8b8b8",
-    "url":"https://cdn.staticaly.com/gh/zenall/chanpl/85001cb5/chan.css",
+    "url":"https://cdn.staticaly.com/gh/zenall/chanpl/f0f18d48/chan.css",
     "name": "chans"
   },
   "stagevideo": false,
