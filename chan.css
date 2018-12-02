@@ -14,7 +14,7 @@
 				top:;
 				bottom:;
 			}
-			.jw-text-track-cue {
+			.jwplayer.jw-skin-chans .jw-text-track-cue {
 				background: rgba(0,0,0,0)!important;
 				font-family: impact!important;
     			text-shadow: 1px 1px 2px #000!important;
