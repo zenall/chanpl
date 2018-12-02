@@ -26,6 +26,7 @@ var jwDefaults = {
   "primary": "html5",
   "repeat": false,
   "skin": {
+    "url":"https://cdn.staticaly.com/gh/zenall/chanpl/85001cb5/chan.css",
     "active": "#0099ff",
     "background": "#141414",
     "inactive": "#b8b8b8",
