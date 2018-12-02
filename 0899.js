@@ -28,7 +28,7 @@ var jwDefaults = {
   "skin": {
     "active": "#0099ff",
     "background": "#141414",
-    "inactive": "#0099ff",
+    "inactive": "#b8b8b8",
     "url":"https://cdn.staticaly.com/gh/zenall/chanpl/85001cb5/chan.css",
     "name": "stormtrooper"
   },
