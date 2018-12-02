@@ -25,15 +25,6 @@ var jwDefaults = {
   "preload": "none",
   "primary": "html5",
   "repeat": false,
-  "sharing": {
-    "code": "%3Ciframe%20src%3D%22//content.jwplatform.com/players/MEDIAID-LJ361JYj.html%22%20width%3D%22320%22%20height%3D%22260%22%20frameborder%3D%220%22%20scrolling%3D%22auto%22%3E%3C/iframe%3E",
-    "heading": "Share this Anime",
-    "sites": [
-      "facebook",
-      "twitter",
-      "email"
-    ]
-  },
   "skin": {
     "active": "#0099ff",
     "background": "#141414",
